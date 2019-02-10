@@ -201,17 +201,17 @@ $("#container").click(function(){
 
 
   $('#item-2-twitter').dblclick(function(){
-     window.open('https://twitter.com/lemongrassii');
+     window.open('https://twitter.com/---');
   });
 
 
   $('#item-2-youtube').dblclick(function(){
- window.open('https://youtube.com/c/grassiix');
+ window.open('https://youtube.com/c/---');
   });
     
 
   $('#item-2-steam').dblclick(function(){
- window.open('https://steamcommunity.com/id/grassii');
+ window.open('https://steamcommunity.com/id/macxvii');
   });    
 
   $('#item-2-discord').dblclick(function(){
